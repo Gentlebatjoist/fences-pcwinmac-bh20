@@ -1,4 +1,4 @@
-# 
+# Top Fences templates for Mac OS | Turbo Fences templates for PC Windows. Featuring hotkey support and plugin system — optimized for maximum performance on every platform.
 
 
 
